@@ -1,1 +1,4 @@
-# Capstone
+# Capstone Project
+
+![Image](lebron.jpeg)
+
